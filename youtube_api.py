@@ -6,7 +6,7 @@ from utils import setup_logger
 
 logger = setup_logger('youtube_api', 'youtube_api.log')
 
-DEVELOPER_KEY = config.get('AIzaSyB4jssY2y50O4tlFl51y3LIvVMgd8EEWJI')
+DEVELOPER_KEY = config.get('')
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
